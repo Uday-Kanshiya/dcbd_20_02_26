@@ -6,4 +6,4 @@ def add_numbers(a, b):
     return result
 
 
-add_numbers(2,6)
+add_numbers(2,5)
